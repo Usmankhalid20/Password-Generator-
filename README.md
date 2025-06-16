@@ -35,9 +35,4 @@ Live demo coming soon... (or add your deployed link here)
 
 ---
 
-### ✅ What You Need to Do:
 
-1. Rename your screenshot to `password.PNG` and put it in your `public` or `assets` folder.
-2. Update this line in the README:
-   ```markdown
-   ![Password Generator Screenshot](./path-to-your-image/password.PNG)
